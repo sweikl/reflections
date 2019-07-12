@@ -4,3 +4,9 @@ the repository is transformed to a git repository; Otherwise I cannot commit cha
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 It is a collection place for all files that should be contained in the commit; 
+
+How can you use the staging area to make sure you have one commit per logical change?
+If I do not put too many changes into the staging area
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+If I am not sure if a change makes sense; in case of experimental changes; if I need different versions because of different languages etc.
