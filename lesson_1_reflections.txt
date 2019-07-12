@@ -1,0 +1,34 @@
+Using diff to find bugs
+
+Why?
+I do not have to go through two different files line by line
+comparing the lines. Differences are shown to me immediately.
+
+How could having easy access to the entire history of a file
+make you a more efficient programmer in the long term?
+- Being able to compare different software versions
+- Merging versions that colleagues have been working on
+
+Version control system
+
+What do you think are the pros and cons of manually choosing when
+to create a commit, like you do in Git, vs having versions
+automatically saved, like Google Docs does?
+- Versions are then just saved whenever changes are singnificant
+- No risk that some changes are lost as manual control
+
+git diff df035382c41b4d0cda86a1aa30b53f15bef05b53 df035382c41b4d0cda86a1aa30b53f15bef05b53
+
+How can you use the commands git log and git diff to view the history of files?
+git log shows all the commits
+git diff compares the commits
+
+checkout commit--> restore this version
+
+How might using version control make you more confident to make
+changes that could break something?
+Because it's easier to find the previous versions without bugs
+
+Now that you have your workspace set up, what do you want to try using Git for?
+Checking in a new commit for proto messages
+
