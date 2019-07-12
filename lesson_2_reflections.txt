@@ -1,0 +1,6 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+the repository is transformed to a git repository; Otherwise I cannot commit changes and the history of files is not recorded
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+It is a collection place for all files that should be contained in the commit; 
